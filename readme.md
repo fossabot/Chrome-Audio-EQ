@@ -1,4 +1,6 @@
 #Chrome Audio EQ
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FChrome-Audio-EQ.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FChrome-Audio-EQ?ref=badge_shield)
+
 
 With [Chrome Audio EQ](https://chrome.google.com/webstore/detail/lfafdlnjaliaghpjdajmlcnnblkgcefh/null) you can control your audio and video from all tabs in one place.
 More info [here](http://lab.ejci.net/Chrome-Audio-EQ/).
@@ -42,3 +44,6 @@ Version 0.3.2.0
 
 ####License
 All code is open source and dual licensed under GPL and MIT. Check the individual licenses for more information.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FChrome-Audio-EQ.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FChrome-Audio-EQ?ref=badge_large)
